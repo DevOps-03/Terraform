@@ -1,5 +1,5 @@
 # Terraform Installation
-
+https://docs.digitalocean.com/reference/terraform/getting-started/
 1. Install terraform on ubuntu 24.04
    
 To install Terraform on Ubuntu, add the HashiCorp GPG key to your system:
