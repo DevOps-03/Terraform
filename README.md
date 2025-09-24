@@ -28,3 +28,8 @@ Genearte aws access key and secret key
 
 provide access key and secret key
 
+validate:
+cat ~/.aws/config
+cat ~/.aws/credentials
+
+
